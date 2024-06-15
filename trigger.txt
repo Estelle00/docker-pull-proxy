@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+haroldli/xiaoya-tvbox:latest registry.cn-chengdu.aliyuncs.com/haroldli/xiaoya-tvbox:latest
