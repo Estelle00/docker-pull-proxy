@@ -1,1 +1,2 @@
 haroldli/xiaoya-tvbox:latest registry.cn-chengdu.aliyuncs.com/zspace2024/xiaoya-tvbox:20240616
+wukongdaily/box:latest registry.cn-chengdu.aliyuncs.com/zspace2024/wukongdaily/box:latest
